@@ -24,7 +24,6 @@ DefaultGroupName=WillianRomao
 DisableProgramGroupPage=yes
 OutputDir=C:\Zabbix\build
 OutputBaseFilename=Zabbix Agent Setup
-SetupIconFile=C:\Zabbix\build\ico.ico
 Compression=lzma
 SolidCompression=yes
 
